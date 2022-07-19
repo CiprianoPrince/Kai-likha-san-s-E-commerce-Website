@@ -1,4 +1,4 @@
-<?php
+	<?php
 	include 'includes/session.php';
 
 	if(isset($_POST['add'])){

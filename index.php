@@ -33,10 +33,10 @@
 		                    <img src="images/picture1.png" alt="First slide">
 		                  </div>
 		                  <div class="item">
-		                    <img src="images/picture2.png" alt="Second slide">
+		                    <img src="images/picture1.png" alt="Second slide">
 		                  </div>
 		                  <div class="item">
-		                    <img src="images/picture3.png" alt="Third slide">
+		                    <img src="images/picture1.png" alt="Third slide">
 		                  </div>
 		                </div>
 		                <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -67,7 +67,7 @@
 		       									<h5><a href='product.php?product=".$row['slug']."'>".$row['name']."</a></h5>
 		       								</div>
 		       								<div class='box-footer'>
-		       									<b>&#36; ".number_format($row['price'], 2)."</b>
+		       									<b>&#8369; ".number_format($row['price'], 2)."</b>
 		       								</div>
 	       								</div>
 	       							</div>
